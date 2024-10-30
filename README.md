@@ -1,3 +1,34 @@
+# React Native Smart AI App 🤖
+
+<p align="center">
+  <img src="./assest/images/screenshot.png" alt="App Screenshot" width="300">
+</p>
+
+## Descripción 📱
+
+Esta aplicación móvil desarrollada en **React Native** integra las funcionalidades de **ChatGPT** y **DALL-E** mediante la API de OpenAI. Ofrece a los usuarios la capacidad de interactuar con un asistente de inteligencia artificial que responde en tiempo real a través de texto y voz, y además, genera imágenes a partir de descripciones textuales. Todo esto combinado en una interfaz intuitiva y amigable.
+
+## Características 🌟
+
+- **ChatGPT**: Responde a tus preguntas y te asiste con sugerencias creativas en una amplia variedad de temas.
+- **DALL-E**: Genera imágenes a partir de descripciones textuales, expandiendo los límites de la creatividad visual.
+- **Smart IA**: Asistente de voz poderoso que combina las habilidades de ChatGPT y DALL-E, brindándote lo mejor de ambos mundos.
+
+## Capturas de Pantalla 📸
+
+<p align="center">
+  <img src="./assest/images/screenshot.png" alt="App Screenshot" width="300">
+</p>
+
+## Uso 🔧
+La aplicación cuenta con una pantalla principal donde puedes:
+
+Escribir preguntas o hablar para obtener respuestas de ChatGPT.
+Generar imágenes creativas usando DALL-E a partir de tus descripciones textuales.
+
+## Contribuciones 🤝
+¡Las contribuciones son bienvenidas! Siéntete libre de abrir un issue o enviar un pull request para mejorar el proyecto.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
