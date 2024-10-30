@@ -1,7 +1,7 @@
 # React Native Smart AI App 🤖
 
 <p align="center">
-  <img src="./assest/images/screenshot.png" alt="App Screenshot" width="300">
+  <img src="./assets/images/screenshot.png" alt="App Screenshot" width="300">
 </p>
 
 ## Descripción 📱
@@ -17,7 +17,7 @@ Esta aplicación móvil desarrollada en **React Native** integra las funcionalid
 ## Capturas de Pantalla 📸
 
 <p align="center">
-  <img src="./assest/images/screenshot.png" alt="App Screenshot" width="300">
+  <img src="./assets/images/screenshot.png" alt="App Screenshot" width="300">
 </p>
 
 ## Uso 🔧
